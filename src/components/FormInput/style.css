@@ -1,0 +1,15 @@
+.FormInput {
+  font-family: sans-serif;
+  text-align: center;
+  border: 4px solid pink;
+  background-color: pink;
+}
+
+input {
+  border-radius: 20px;
+  border-color: pink;
+  border-style: solid;
+  border-width: 6px;
+  font-size: 1.25rem;
+  padding: 5px;
+}
